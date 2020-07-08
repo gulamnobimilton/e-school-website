@@ -1,1 +1,1 @@
-# e-school-theme
+# e-school-template
