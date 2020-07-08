@@ -1,0 +1,220 @@
+.body{
+    font-family: poppins;
+}
+.starting-area {
+   background-color: #f0fff0;
+   height: 590px;
+}
+
+       /*Header-Area*/
+
+.header-area img{
+   height: 60px;
+   width: auto;
+   margin-top: 30px;
+}
+.navbar {
+   float: right;
+   color: black;
+   margin-top: 15px;
+}
+.navbar-nav button {
+   border: none;
+   color: white;
+   background-color: #21b573;
+   border-radius: 33px;
+   padding: 8px 26px;
+   margin-top: 0px;
+   font-size: 17px;
+}
+.dropdown-menu {
+   border: none;
+   background-color: #1dd1a1;
+}
+
+       /*Starting-Area*/
+
+.introduction-area img{
+   height: 400px;
+   width: auto;
+   margin-top: 60px;
+}
+  
+.introduction-area a{
+   color: red;
+}
+.introduction-area h1{
+   font-weight: 700;
+   font-size: 55px;
+}
+.introduction-area .green-text{
+   color: rgb(21, 180, 100);
+}
+.introduction-area p{
+   margin-top: 35px;
+   color: #6c6b6b;
+   font-size: 16px;
+   line-height: 36px;
+   line-height: 5px;
+}
+.starting-button {
+   background-color: #21b573;
+   color: white;
+   padding: 12px 36px;
+   border-radius: 30px;
+   border: none;
+   margin-top: 30px;
+}
+
+       /*About-Area*/
+
+.about-area {
+   margin-top: 60px;
+   margin-bottom: 100px;
+}
+.about-area h3{
+   color: #40407a;
+}
+.about-area {
+   color: #57606f;
+}
+.card img{
+   height: 100px;
+   width: 90px;
+   margin-left: 80px;
+   margin-top: 60px;
+}
+.about-area .card {
+   border: none;
+   background-color: #F8FFFB;
+   height: 280px;
+   width: 340px;
+   text-align: center;
+}
+#shadow-card {
+   box-shadow: 5px 5px 10px 5px lightgray;
+   background-color: white;
+
+}
+
+       /*Courses-Area*/
+
+.Courses-area{
+   margin-bottom: 70px;
+}
+.Courses-area h1{
+   text-align: center;
+   font-weight: 700;
+   margin-bottom: 60px;
+}
+.Courses-area .card{
+   border: none;
+   box-shadow: 2px 2px 4px 4px #f5f6fa;
+   border-radius: 20px;
+   height: 470px;
+}
+.Courses-area img{
+   width: 320px;
+   height: auto;
+   margin-left: 15px;
+   margin-top: 25px
+}
+.buy-button {
+   border: none;
+   color: white;
+   background-color: #21b573;
+   padding: 8px 28px;
+   border-radius: 33px;
+}
+.card-footer {
+   border: none;
+   background: none;
+}
+.icon img{
+   width: 25px;
+   height: auto;
+   position: absolute;
+   margin-left: 0;
+}
+
+.icon p{
+   padding-left: 30px;
+   position: absolute;
+   margin-top: 27px;
+}
+.icon-2 p{ 
+   margin-left: 200px;
+   margin-top: 27px;
+   position: absolute;
+}
+
+.icon-2 img{
+   width: 25px;
+   height: auto;
+   position: absolute;
+   margin-left: 170px;
+   margin-bottom: 70px;
+}
+
+       /*Testimonial-Area*/
+
+.testimonial-area {
+   text-align: center;
+   margin-bottom: 100px;
+}
+.testimonial-area h1{
+   margin-bottom: 70px;
+   font-weight: 700;
+}
+.testimonial-area p{
+   width: 550px;
+   text-align: justify;
+   float: right;
+   margin-right: 180px;
+   margin-top: 20px;
+}
+.testimonial-area img{
+   height: 120px;
+   width: 120px;
+   margin-left: 150px;
+}
+
+       /*Working-Area*/
+
+.working-area {
+   background-color: #282531;
+   height: 370px;
+   color:  #ffffff;
+}
+.text-area{
+   float: left;
+   margin-top: 65px;
+   margin-right: 10px;
+   line-height: 16px;
+}
+
+#bold-word {
+    font-weight: 700;
+}
+.list-1 ,.list-2 ,.list-3 {
+   float: left;
+   overflow: hidden;
+   margin-top: 60px;
+   margin-right: 40px;
+   margin-left: 70px;
+   margin-bottom: 110px;
+}
+ul{
+   list-style-type: none;
+}
+
+   /*Footer-Area*/
+
+.footer-area{
+   text-align: center;
+   font-size: 17px;
+   color: #CDCDCD;
+   background-color: #282531;
+   
+}
+
